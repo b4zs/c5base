@@ -1,0 +1,8 @@
+.DS_Store
+/.idea
+LICENSE.TXT
+application/config/database.php
+!application/config/.keep
+application/files/*
+!application/files/.keep
+concrete/vendor
