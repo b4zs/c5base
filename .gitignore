@@ -6,3 +6,4 @@ application/config/database.php
 application/files/*
 !application/files/.keep
 concrete/vendor
+application/config/doctrine/proxies/*
