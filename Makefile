@@ -11,3 +11,7 @@ composer:
 
 server:
 	$(PHP) -S localhost:8000 -t ./
+
+#source envvars.sh
+dumpcfg:
+	echo $(DB_USER)
